@@ -1,0 +1,8 @@
+prefix=/home/zhang/learning/learning/devel
+
+Name: learing_topic
+Description: Description of learing_topic
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zhang/learning/learning/devel/lib 
+Requires: 

@@ -1,0 +1,9 @@
+/home/zhang/learning/learning/install/_setup_util.py
+/home/zhang/learning/learning/install/env.sh
+/home/zhang/learning/learning/install/setup.bash
+/home/zhang/learning/learning/install/local_setup.bash
+/home/zhang/learning/learning/install/setup.sh
+/home/zhang/learning/learning/install/local_setup.sh
+/home/zhang/learning/learning/install/setup.zsh
+/home/zhang/learning/learning/install/local_setup.zsh
+/home/zhang/learning/learning/install/.rosinstall
